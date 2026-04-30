@@ -1,7 +1,7 @@
 
   # OpenFact
 
-  This is a code bundle for OpenFact. The original project is available at https://www.figma.com/design/TSpMpmky1H0yRLEtcC3zux/OpenFact.
+  Prima versione del sito OpenFact di Expleo Italia S.p.A.
 
   ## Running the code
 
