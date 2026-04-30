@@ -1,0 +1,32 @@
+[
+  {
+    "id": "articolo-1",
+    "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800",
+    "dashboardImage": "/images/dashboard/dashboard-credit-scoring-municipale-2026-04-29.jpg",
+    "category": "Economia",
+    "date": "2026-04-29",
+    "title": "Le 10 città italiane sotto esame: chi merita credito, chi è al verde",
+    "excerpt": "Dalla Sicilia al Piemonte, Nord e Sud a confronto su bilanci, trasparenza e affidabilità",
+    "file": "/data/articles/articolo-governance-citta-italiane-2026-04-29.md"
+  },
+  {
+    "id": "articolo-2",
+    "image": "https://images.unsplash.com/photo-1585282263861-f55e341878f8?w=800",
+    "dashboardImage": "/images/dashboard/dashboard-solidita-finanziaria-monza-2026-04-29.jpg",
+    "category": "Economia",
+    "date": "2026-04-29",
+    "title": "Monza, conti solidi ma con tre segnali d'allarme",
+    "excerpt": "Il bilancio 2025-2027 approvato dal Consiglio comunale mostra equilibrio formale e liquidità robusta, ma cresce la pressione su personale e patrimonio disponibile",
+    "file": "/data/articles/articolo-monza-solidita-finanziaria-2026-04-29.md"
+  },
+  {
+    "id": "articolo-3",
+    "image": "https://images.unsplash.com/photo-1523995462485-3d171b5c8fa9?w=800",
+   "dashboardImage": "/images/dashboard/dashboard-compliance-milano-2026-04-29.jpg",
+    "category": "Pubblica Amministrazione",
+    "date": "2026-04-29",
+    "title": "Milano, la Corte dei Conti promuove il bilancio ma vigila sui debiti",
+    "excerpt": "Gestione finanziaria solida nel quadriennio 2021-2024, ma criticità non risolte su appalti e Olimpiadi",
+    "file": "/data/articles/articolo-breve-compliance-milano-2026-04-29.md"
+  }
+]
