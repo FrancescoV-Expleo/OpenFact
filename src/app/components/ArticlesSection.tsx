@@ -6,7 +6,7 @@ export default function ArticlesSection() {
   const articles = getArticles();
 
   return (
-    <section className="py-16 bg-gray-50">
+    <section className="py-16 bg-gray-100">
       <div className="container mx-auto px-6">
 
         <h2 className="text-3xl md:text-4xl font-bold text-gray-900 text-center mb-12">

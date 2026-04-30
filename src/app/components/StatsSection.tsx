@@ -17,7 +17,7 @@ export default function StatsSection() {
     <section className="bg-gradient-to-r from-gray-700 to-gray-800 py-12">
       <div className="container mx-auto px-6">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-          <StatItem value="1.100+" label="Dataset Attivi" />
+          <StatItem value="1.100+" label="Categorie di dati" />
           <StatItem value="12.000+" label="Portali Trasparenti PA" />
           <StatItem value="65.000+" label="Atti Normativi (dal 1939 al 2025)" />
         </div>

@@ -53,14 +53,14 @@ export default function HeroSection() {
       </div>
 
       <div className="container mx-auto px-6 relative z-10">
-        <div className="max-w-3xl mx-auto text-center">
+        <div className="max-w-6xl mx-auto text-center">
           <motion.h1
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, delay: 0.2 }}
             className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 mb-6"
           >
-            Verifica notizie e scopri storie nei dati pubblici
+            Le notizie si basano su dati pubblici certi  <br/>senza elaborazioni
           </motion.h1>
           <motion.p
             initial={{ opacity: 0, y: 20 }}
@@ -85,7 +85,7 @@ export default function HeroSection() {
             className="flex flex-col sm:flex-row gap-4 justify-center"
           >
             <button className="px-8 py-3 bg-gray-900 text-white font-medium rounded-md hover:bg-gray-800 transition-colors hover:scale-105 transform duration-200">
-              Inizia ad esplorare
+              Scrivi un articolo
             </button>
             <button className="px-8 py-3 bg-white text-gray-900 font-medium rounded-md border border-gray-300 hover:bg-gray-50 transition-colors hover:scale-105 transform duration-200">
               Verifica un fatto
